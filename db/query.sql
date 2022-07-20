@@ -1,0 +1,1 @@
+SELECT id, title, salary FROM roles JOIN department ON names = department.roles
