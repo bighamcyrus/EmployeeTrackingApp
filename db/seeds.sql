@@ -9,6 +9,6 @@ VALUES  ("Sales Manager", 80000.00, 1),
         ("COO", 99000.00, 3);
 
 INSERT INTO employee(first_name, Last_name, roles_id)
-VALUES  ("John", "Johnson" 1),
+VALUES  ("John", "Johnson", 1),
         ("Jane", "Janey", 2),
         ("Cyrus", "Bigham", 3);
